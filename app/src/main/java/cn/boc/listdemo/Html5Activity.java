@@ -60,7 +60,6 @@ public class Html5Activity extends Activity {
                 view.loadUrl(url);
                 return true;
 
-//                return super.shouldOverrideUrlLoading(view, url);
             }
         });
 
